@@ -1,4 +1,4 @@
-# Credit-risk-model-stability
+![image](https://github.com/jackitchai/Credit-risk-model-stability/assets/107567014/508243ad-f094-4192-9e02-597d977b3da3)# Credit-risk-model-stability
 Code competition in Finance industry from Home Credit covering from Business understanding to Scoring performance
 ## What the repository contians: 
 * Explore_data.ipynb - EDA
@@ -9,9 +9,13 @@ Your participation may offer consumer finance providers a more reliable and long
 >
 Dataset : https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview
 
+
+
 ### 2. Explore Data
+![image](https://github.com/jackitchai/Credit-risk-model-stability/assets/107567014/48494143-db71-4645-bdb7-2281509c6d65)
 
 ### 3. Modeling
+
 
 ### 4. Evaluation
 
