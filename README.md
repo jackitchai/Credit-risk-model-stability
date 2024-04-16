@@ -1,4 +1,4 @@
-![image](https://github.com/jackitchai/Credit-risk-model-stability/assets/107567014/508243ad-f094-4192-9e02-597d977b3da3)# Credit-risk-model-stability
+
 Code competition in Finance industry from Home Credit covering from Business understanding to Scoring performance
 ## What the repository contians: 
 * Explore_data.ipynb - EDA
