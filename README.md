@@ -2,7 +2,7 @@
 This is a project code competition hosted by Home Credit in the finance industry. This project covered aspects ranging from business understanding to scoring performance.
 ## What the repository contians: 
 * Explore_data.ipynb - EDA
-* Credit_stab.ipynb - Modeling
+* Credit_sta_project.ipynb - Modeling
 ### 1. Introduction
 >"The goal of this competition is to predict which clients are more likely to default on their loans. The evaluation will favor solutions that are stable over time.
 Your participation may offer consumer finance providers a more reliable and longer-lasting way to assess a potential client’s default risk."
