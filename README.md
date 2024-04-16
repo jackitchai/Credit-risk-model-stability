@@ -1,5 +1,5 @@
-#Home credit risk model stability
-Code competition in Finance industry from Home Credit covering from Business understanding to Scoring performance
+# Credit risk model for long-term stability
+This is a project code competition hosted by Home Credit in the finance industry. This project covered aspects ranging from business understanding to scoring performance.
 ## What the repository contians: 
 * Explore_data.ipynb - EDA
 * Credit_stab.ipynb - Modeling
