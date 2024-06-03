@@ -1,2 +1,7 @@
 home-credit-credit-risk-model-stability/
 
+Homecredit.egg-info/
+
+build/lib/src/__init__.py
+dist/Homecredit-0.0.0-py3.12.egg
+src/__pycache__/__init__.cpython-312.pyc
